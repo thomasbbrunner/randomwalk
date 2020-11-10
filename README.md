@@ -1,6 +1,6 @@
 # randomwalk
 
-Pretty fast random walk algorithm for any number of dimensions
+Random walk algorithm for any number of dimensions.
 
 ## Languages
 
